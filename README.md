@@ -60,49 +60,49 @@ Start the Client
 
 ### Authenticaton
 
-![] (https://github.com/ripan-mann/chat-me/blob/main/screenchots/loginPage.png)
+![](https://github.com/ripan-mann/chat-me/blob/main/screenchots/loginPage.png)
 
-![] (https://github.com/ripan-mann/chat-me/blob/main/screenchots/signupPage.png)
+![](https://github.com/ripan-mann/chat-me/blob/main/screenchots/signupPage.png)
 
 ### Search Users
 
-![] (https://github.com/ripan-mann/chat-me/blob/main/screenchots/searchUsers.png)
+![](https://github.com/ripan-mann/chat-me/blob/main/screenchots/searchUsers.png)
 
-![] (https://github.com/ripan-mann/chat-me/blob/main/screenchots/searchResult.png)
+![](https://github.com/ripan-mann/chat-me/blob/main/screenchots/searchResult.png)
 
 ### Notifications
 
-![] (https://github.com/ripan-mann/chat-me/blob/main/screenchots/notifications.png)
+![](https://github.com/ripan-mann/chat-me/blob/main/screenchots/notifications.png)
 
-![] (https://github.com/ripan-mann/chat-me/blob/main/screenchots/notificationView.png)
+![](https://github.com/ripan-mann/chat-me/blob/main/screenchots/notificationView.png)
 
 ### My Profile
 
-![] (https://github.com/ripan-mann/chat-me/blob/main/screenchots/myProfile.png)
+![](https://github.com/ripan-mann/chat-me/blob/main/screenchots/myProfile.png)
 
-![] (https://github.com/ripan-mann/chat-me/blob/main/screenchots/myProfileView.png)
+![](https://github.com/ripan-mann/chat-me/blob/main/screenchots/myProfileView.png)
 
 ### One to One chat
 
-![] (https://github.com/ripan-mann/chat-me/blob/main/screenchots/oneChat.png)
+![](https://github.com/ripan-mann/chat-me/blob/main/screenchots/oneChat.png)
 
 ### View Other user Profile
 
-![] (https://github.com/ripan-mann/chat-me/blob/main/screenchots/otherUserProfile.png)
+![](https://github.com/ripan-mann/chat-me/blob/main/screenchots/otherUserProfile.png)
 
 ### Real Time Chatting with Typing indicators
 
-![] (https://github.com/ripan-mann/chat-me/blob/main/screenchots/typingAnimation.png)
+![](https://github.com/ripan-mann/chat-me/blob/main/screenchots/typingAnimation.png)
 
 ### Create Group Chats
 
-![] (https://github.com/ripan-mann/chat-me/blob/main/screenchots/creatGroupChat.png)
+![](https://github.com/ripan-mann/chat-me/blob/main/screenchots/creatGroupChat.png)
 
 ### Add or Remove users from group
 
-![] (https://github.com/ripan-mann/chat-me/blob/main/screenchots/groupChatAddUsers.png)
+![](https://github.com/ripan-mann/chat-me/blob/main/screenchots/groupChatAddUsers.png)
 
-![] (https://github.com/ripan-mann/chat-me/blob/main/screenchots/editGroupChatSettings.png)
+![](https://github.com/ripan-mann/chat-me/blob/main/screenchots/editGroupChatSettings.png)
 
 ## Made By
 
