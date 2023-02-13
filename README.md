@@ -15,6 +15,8 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 https://chat-me.herokuapp.com/
 
+https://github.com/ripan-mann/chat-me/blob/main/screenchots/homepage.png?raw=true
+
 ## Run Locally
 
 Clone the project
@@ -58,19 +60,49 @@ Start the Client
 
 ### Authenticaton
 
-### Real Time Chatting with Typing indicators
+https://github.com/ripan-mann/chat-me/blob/main/screenchots/loginPage.png?raw=true
 
-### One to One chat
+https://github.com/ripan-mann/chat-me/blob/main/screenchots/signupPage.png?raw=true
 
 ### Search Users
 
-### Create Group Chats
+https://github.com/ripan-mann/chat-me/blob/main/screenchots/searchUsers.png?raw=true
+
+https://github.com/ripan-mann/chat-me/blob/main/screenchots/searchResult.png?raw=true
 
 ### Notifications
 
-### Add or Remove users from group
+https://github.com/ripan-mann/chat-me/blob/main/screenchots/notifications.png?raw=true
+
+https://github.com/ripan-mann/chat-me/blob/main/screenchots/notificationView.png?raw=true
+
+### My Profile
+
+https://github.com/ripan-mann/chat-me/blob/main/screenchots/myProfile.png?raw=true
+
+https://github.com/ripan-mann/chat-me/blob/main/screenchots/myProfileView.png?raw=true
+
+### One to One chat
+
+https://github.com/ripan-mann/chat-me/blob/main/screenchots/oneChat.png?raw=true
 
 ### View Other user Profile
+
+https://github.com/ripan-mann/chat-me/blob/main/screenchots/otherUserProfile.png?raw=true
+
+### Real Time Chatting with Typing indicators
+
+https://github.com/ripan-mann/chat-me/blob/main/screenchots/typingAnimation.png?raw=true
+
+### Create Group Chats
+
+https://github.com/ripan-mann/chat-me/blob/main/screenchots/creatGroupChat.png?raw=true
+
+### Add or Remove users from group
+
+https://github.com/ripan-mann/chat-me/blob/main/screenchots/groupChatAddUsers.png?raw=true
+
+https://github.com/ripan-mann/chat-me/blob/main/screenchots/editGroupChatSettings.png?raw=true
 
 ## Made By
 
