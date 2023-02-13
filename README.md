@@ -13,9 +13,9 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 ## Demo
 
-https://chat-me.herokuapp.com/
+![Link]https://chat-me.herokuapp.com/
 
-![] (https://github.com/ripan-mann/chat-me/blob/main/screenchots/homepage.png)
+![](https://github.com/ripan-mann/chat-me/blob/main/screenchots/homepage.png)
 
 ## Run Locally
 
